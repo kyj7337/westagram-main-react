@@ -1,0 +1,18 @@
+.icon2,
+.icon3,
+.icon4 {
+    width: 24px;
+    height: 24px;
+    display:inline-block;
+    margin:0 auto;
+    float: left;
+    padding-left: 20px;
+}
+.nav_right{
+    display: inline-block;
+    max-width:377.5px;
+    height: 24px;
+    padding-left: 24px;
+    float: right;
+    margin-right: 50px;
+}

@@ -1,0 +1,11 @@
+.post{
+    float:right;
+    background-color: white;
+    border: none;
+    padding: auto 0;
+    color: #c4e0fb;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}

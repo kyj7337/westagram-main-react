@@ -1,0 +1,16 @@
+.reply{
+    border-top: 1px solid #dbdbdb;
+}
+.reply_input{
+    display:inline-block;
+    width: 500px;
+    height:18px;
+    padding-top: 3px 10px 3px 26px;
+    border : none;
+    color: #999;
+    padding-left: 9px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 14px;
+    font-weight: bold;
+}

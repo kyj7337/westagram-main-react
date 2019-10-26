@@ -1,0 +1,18 @@
+nav {
+    
+    position: inline;
+    max-width: 970px;
+    
+    height: 25px;
+    padding:0 20px;
+    margin:0 auto;
+    text-align: center;
+}
+.nav_left{
+    display:block;
+    max-width: 377.5px;
+    height: 36px;
+    float: left;
+}
+
+

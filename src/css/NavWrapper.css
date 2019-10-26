@@ -1,0 +1,8 @@
+.nav_wrapper{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border-bottom: 1px solid rgba(219, 219, 219, 1);
+    height: 25px;
+    padding:26px 20px;
+}

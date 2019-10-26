@@ -1,0 +1,34 @@
+.post{
+    float:right;
+    background-color: white;
+    border: none;
+    padding: auto 0;
+    color: #c4e0fb;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.hearticon{
+    display: inline;
+    width:12px;
+    height: 11px;
+    float: right;
+    padding-right: 16px;
+}
+.reply{
+    border-top: 1px solid #dbdbdb;
+}
+.reply_input{
+    display:inline-block;
+    width: 500px;
+    height:18px;
+    padding-top: 3px 10px 3px 26px;
+    border : none;
+    color: #999;
+    padding-left: 9px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 14px;
+    font-weight: bold;
+}

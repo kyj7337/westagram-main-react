@@ -1,0 +1,22 @@
+.main_right{
+    max-width: 293px;
+    height: 100%;
+    right:0;
+    top:60px;
+    float:right;
+    margin-left: 20px;
+    
+}
+.main_right_top{
+    margin-top: 20px;
+    border: solid 1px #dbdbdb;
+    max-width: 291px;
+    height: 221px;
+    overflow: hidden;
+}
+.main_right_bottom{
+    border: solid 1px #dbdbdb;
+    max-width: 291px;
+    height: 195px;
+    margin: 12px 0;
+}

@@ -1,0 +1,12 @@
+.count{
+    padding-top: 3px;
+    padding-left: 6px;
+    font-size: 14px;
+}
+.myrepl{
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-left: 6px;
+}
